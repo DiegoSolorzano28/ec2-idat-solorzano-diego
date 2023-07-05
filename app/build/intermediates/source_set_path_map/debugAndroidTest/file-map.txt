@@ -1,0 +1,7 @@
+com.example.ec2_solorzano_diego.test.app-core-1.5.0-0 C:\Users\DIEGO-PC\.gradle\caches\transforms-3\b115597ce3dbff49e1dc5289fce392a3\transformed\core-1.5.0\res
+com.example.ec2_solorzano_diego.test.app-annotation-experimental-1.3.0-1 C:\Users\DIEGO-PC\.gradle\caches\transforms-3\f04190fac85d926c2fa598832a3ec059\transformed\annotation-experimental-1.3.0\res
+com.example.ec2_solorzano_diego.test.app-androidTest-2 E:\IDAT\IDAT 6to ciclo\DESARROLLO DE APLICACIONES MOVILES 2\Proyectos\EC2_Solorzano_Diego\app\build\generated\res\resValues\androidTest\debug
+com.example.ec2_solorzano_diego.test.app-androidTest-3 E:\IDAT\IDAT 6to ciclo\DESARROLLO DE APLICACIONES MOVILES 2\Proyectos\EC2_Solorzano_Diego\app\build\generated\res\rs\androidTest\debug
+com.example.ec2_solorzano_diego.test.app-mergeDebugAndroidTestResources-4 E:\IDAT\IDAT 6to ciclo\DESARROLLO DE APLICACIONES MOVILES 2\Proyectos\EC2_Solorzano_Diego\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.ec2_solorzano_diego.test.app-mergeDebugAndroidTestResources-5 E:\IDAT\IDAT 6to ciclo\DESARROLLO DE APLICACIONES MOVILES 2\Proyectos\EC2_Solorzano_Diego\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.ec2_solorzano_diego.test.app-merged_res-6 E:\IDAT\IDAT 6to ciclo\DESARROLLO DE APLICACIONES MOVILES 2\Proyectos\EC2_Solorzano_Diego\app\build\intermediates\merged_res\debugAndroidTest

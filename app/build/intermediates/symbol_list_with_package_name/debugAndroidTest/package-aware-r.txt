@@ -1,0 +1,3 @@
+com.example.ec2_solorzano_diego.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

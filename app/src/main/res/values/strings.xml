@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CALCMASTER</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="autor">Diego Solórzano</string>
+
+    <string name="string_api_key" translatable="false">AIzaSyDouUg-3mLSbkp0LuGK1Wp7aHJoGikDc18</string>
+</resources>
